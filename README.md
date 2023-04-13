@@ -11,7 +11,6 @@
 <a href="https://stackoverflow.com/users/user:21564698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21564698" height="30" width="40" /></a>
 <a href="https://dev.to/cecoipavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cecoipavel" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
