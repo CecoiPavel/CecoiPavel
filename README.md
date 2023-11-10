@@ -25,7 +25,6 @@
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=CecoiPavel&theme=default&hide_border=true&include_all_commits=false&count_private=false" /><br/> 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CecoiPavel&theme=default&hide_border=true" /><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CecoiPavel&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
