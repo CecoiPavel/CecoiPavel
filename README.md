@@ -108,12 +108,7 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      Blogs posts
-      <!-- BLOG-POST-LIST:START -->
-      <!-- BLOG-POST-LIST:END -->
-    </td>
-  </tr>
-</table>
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
