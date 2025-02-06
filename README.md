@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/dtzzkMbB/Profile-Banner.png" alt="My Remote Image">
+  <img src="https://i.imghippo.com/files/jHN6386pTc.png" alt="My Remote Image">
 </div>
 
 <h1 align="center">👋 Hi there, I'm Pavel</h1>
