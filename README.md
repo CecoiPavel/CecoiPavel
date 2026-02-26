@@ -1,42 +1,11 @@
 <div align="center">
-  <img src="https://i.imghippo.com/files/jHN6386pTc.png" alt="My Remote Image">
+  <img src="https://imgs.search.brave.com/8S9cwFGcUigzF66ui0s-uCDKEb9KsYiI0Iu9KsITsKE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92YXN0/cGhvdG9zLmNvbS9m/aWxlcy91cGxvYWRz/L3Bob3Rvcy8xMTA5/OC9oaWdoLXJlc29s/dXRpb24tZm9yZXN0/LXBob3RvLW0uanBn/P3Y9MjAyMzA0MTUx/MTM4MDM" alt="My Remote Image">
 </div>
-
-<h1 align="center">👋 Hi there, I'm Pavel</h1>
-<h3 align="center">A passionate .NET Engineer from Moldova</h3>
-<h4 align="center">
-  
- 🔭 I’m currently working on **ExodCamps. platform**
-
- 📝 I write articles on [Medium](https://medium.com/@ceiti.pavel).
-
-📫 Send me an <a href="mailto:pavellcecoi@gmail.com">Email</a>.
-  
-</h4>
-  
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cecoipavel&label=Profile%20views&color=0e75b6&style=flat" alt="cecoipavel" /> 
-</p>
 
 <h3 align="center">Connect with me at:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/cecoipavel" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cecoipavel" height="30" width="40" style="display: inline-block;" />
-  </a>
-  <a href="https://medium.com/@ceiti.pavel" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ceiti.pavel" height="30" width="40" style="display: inline-block;" />
-  </a>
-    <a href="https://twitter.com/pavelcecoi" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavelcecoi" height="30" width="40" style="display: inline-block;" />
-  </a>
-  <a href="https://stackoverflow.com/users/21564698/cecoipavel" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21564698" height="30" width="40" style="display: inline-block;" />
-  </a>
-  <a href="https://dev.to/cecoipavel" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cecoipavel" height="30" width="40" style="display: inline-block;" />
-  </a>
-  <a href="https://discord.gg/704589267376144425" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="704589267376144425" height="30" width="40" style="display: inline-block;" />
   </a>
 </p>
 
@@ -100,11 +69,5 @@
 
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CecoiPavel&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+
 
