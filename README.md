@@ -29,12 +29,12 @@ Lately I've been deep in **AI integration patterns** and **connected-device infr
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CecoiPavel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=CecoiPavel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" height="170" />
   <img src="https://streak-stats.demolab.com?user=CecoiPavel&theme=tokyonight&hide_border=true" alt="streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CecoiPavel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="top languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CecoiPavel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="top languages" height="170" />
 </p>
 
 ---
