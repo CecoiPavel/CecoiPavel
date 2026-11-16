@@ -23,9 +23,3 @@ Engineer working across the full stack — .NET, Node, React, and embedded firmw
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CecoiPavel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="top languages" height="170" />
 </p>
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CecoiPavel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
-</p>
